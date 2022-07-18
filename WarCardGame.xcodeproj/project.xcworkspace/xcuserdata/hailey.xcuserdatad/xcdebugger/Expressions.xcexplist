@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.dealTapped(_:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameState.whoWin()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EndGameViewController.viewDidLoad():EndGameViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gameState!.whoWin()">
+            </PersistentString>
+            <PersistentString
+               value = "UILabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
